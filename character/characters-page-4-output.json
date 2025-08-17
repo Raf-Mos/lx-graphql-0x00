@@ -1,0 +1,26 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Collector",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Colossus",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Commander Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        }
+      ]
+    }
+  }
+}
